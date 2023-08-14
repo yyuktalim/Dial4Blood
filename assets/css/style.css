@@ -1,0 +1,355 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+/*top-header css start*/
+.top-header{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.top-header .row{
+}
+.top-header .row .col-md-7{
+}
+.top-header .row .col-md-7 .logo{
+}
+.top-header .row .col-md-7 .logo img{
+	width: 200px;
+}
+
+.top-header .row .col-md-5{}
+.top-header .row .col-md-5 .top-header-menu{}
+.top-header .row .col-md-5 .top-header-menu ul{
+	list-style: none;
+
+}
+.top-header .row .col-md-5 .top-header-menu ul li{
+	display: inline-block;
+	margin-top: 20px;
+	margin-right: -5px;
+}
+.top-header .row .col-md-5 .top-header-menu ul li i{}
+.top-header .row .col-md-5 .top-header-menu ul li a{
+	color: #d41f27;
+	padding-left: 25px;
+	font-family: 'Nunito Sans', sans-serif;
+}
+.top-header .row .col-md-5 .top-header-menu ul li a:hover{
+	color: #343a40;
+}
+/*top-header css end*/
+
+
+/*header css starts*/
+.header{
+	background: #d41f27;
+	box-shadow: 5px 4px 12px 2px #888888;
+}
+.header .row{
+}
+.header .row .col-md-12{
+}
+.header .row .col-md-12 .header-menu{
+}
+.header .row .col-md-12 .header-menu ul{
+	list-style: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 100px;
+
+}
+.header .row .col-md-12 .header-menu ul li{
+	display: inline-block;
+	position: relative;
+	left: 9%;
+	top: 0%;
+	margin-right: -5px;
+}
+.header .row .col-md-12 .header-menu ul li a{
+	color: white;
+	font-family: 'Nunito Sans', sans-serif;
+	text-align: center;
+	border: 1px solid transparent;
+	margin-left: 0px;
+	padding-top: 12px;
+	padding-bottom: 11px;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.header .row .col-md-12 .header-menu ul li a:hover{
+	background: white;
+	color: red;
+	margin-left: 0px;
+}
+.header .row .col-md-12 .header-menu ul .header-menu-home{
+	background: white;
+	color: red;
+}
+.header .row .col-md-12 .header-menu ul .header-menu-home:hover{
+}
+.header .row .col-md-12 .header-menu ul li .header-why-donate-blood{
+}
+/*header css end*/
+
+/*search-blood-donors css start*/
+.search-blood-donors{
+	background: #bdbdbd;
+	padding-top: 40px;
+	padding-bottom: 130px;
+}
+.search-blood-donors .container{
+	width: 75%;
+}
+.search-blood-donors .row{}
+.search-blood-donors .row .col-md-12{}
+.search-blood-donors .row .col-md-12 .search-form-text{}
+.search-blood-donors .row .col-md-12 .search-form-text h2{
+	color: white;
+	display: block;
+	text-align: center;
+	margin-top:40px; 
+	margin-bottom:40px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.search-blood-donors .row .col-md-12 .blood-donors-form{
+	background: #d41f2752;
+	padding-top: 40px;
+	padding-bottom: 60px;
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form{
+	display: flex;
+	justify-content: center;
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .search-form{}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .search-form label{
+	color: white;
+	font-size: 18px;
+	font-family: 'Nunito Sans', sans-serif;
+	padding-left: 100px;
+	padding-top: 10px;
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .search-form .provinces-text{
+   padding-left: 80px;
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .search-form .districts-text{
+   padding-left: 110px;
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .search-form .city-text{
+   padding-left: 130px;
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .search-form select{
+	font-family: 'Nunito Sans', sans-serif;
+	width: 290px;
+	height: 40px;
+	border-radius: 5px;
+	padding-left: 5px;
+	border: 1px solid transparent;
+	color: #343a40;
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .search-form .provinces{
+    margin-right: 10px;
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .search-form .districts{
+    margin-right: 10px;
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .search-form .city{
+  
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .search-form .provinces
+.search-blood-donors .row .col-md-12 .blood-donors-form form .provinces-one{
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .districts-one{
+
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .city-one{
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .city-one .city{
+	width: 280px;
+	height: 40px;
+	border-radius: 5px;
+	border: 1px solid white;
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .blood-group-one{
+    margin-right: 10px;
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .search-button{
+	margin-top: 52px;
+	margin-right: 295px;
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .search-button a{
+	color: white;
+	font-family: 'Nunito Sans', sans-serif;
+	background: #d41f27;
+	padding-left: 119px;
+	padding-right: 125px;
+	padding-top: 9px;
+	padding-bottom: 9px;
+	border-radius: 5px;
+}
+.search-blood-donors .row .col-md-12 .blood-donors-form form .search-button a:hover{
+	background: #c7071a;
+}
+/*search-blood-donors css end*/
+
+
+/*welcome starts*/
+.welcome{
+	padding-top: 150px;
+	padding-bottom: 150px;
+	background: #d41f2714;
+	border-bottom: 5px solid red;
+}
+.welcome .row{}
+.welcome .row .col-md-8{}
+.welcome .row .col-md-8 .welcome-text{
+	background: #dc3545;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	border-radius: 20px;
+}
+.welcome .row .col-md-8 .welcome-text h1{
+	font-family: 'Poppins', sans-serif;
+	color: white;
+	padding-left: 15px;
+	padding-bottom: 20px;
+	margin-left: 20px;
+	margin-top: -5px;
+}
+.welcome .row .col-md-8 .welcome-text p{
+	color: white;
+	font-family: 'Poppins':wght@300, sans-serif;
+	font-size: 19px;
+	padding: 15px;
+	margin-left: 20px;
+}
+.welcome .row .col-md-8 .welcome-contact-button{
+}
+.welcome .row .col-md-8 .welcome-contact-button a{
+	color: white;
+	text-align: center;
+	font-family: 'Poppins':wght@300, sans-serif;
+	border: 2px solid white;
+    margin-left: 35px;
+    background: transparent;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 40px;
+    background: #d41f27;
+}
+.welcome .row .col-md-8 .welcome-contact-button a:hover{
+	background: #c7071a;
+}
+
+.welcome .row .col-md-4 .welcome-image{}
+.welcome .row .col-md-4 .welcome-image img{}
+/*welcome ends*/
+
+
+/*footer starts*/
+.footer{
+	margin-top: 50px;
+}
+.footer .row{}
+.footer .row .col-md-12{}
+.footer .row .col-md-12 .footer-text{}
+.footer .row .col-md-12 .footer-text img{
+	width: 55px;
+	display: inline-block;
+	position: relative;
+	left: 45%;
+	margin-top: -8px;
+	margin-bottom: 10px;
+}
+.footer .row .col-md-12 .footer-text h5{
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	letter-spacing: 1px;
+	color: #343a40;
+}
+
+.footer .row .col-md-12 .footer-social-links{}
+.footer .row .col-md-12 .footer-social-links ul{
+	list-style: none;
+}
+.footer .row .col-md-12 .footer-social-links ul li{
+	display: inline-block;
+	position: relative;
+	left: 30%;
+	border: 1px solid transparent;
+	background: red;
+	height: 31px;
+	padding-bottom: 35px;
+}
+.footer .row .col-md-12 .footer-social-links ul li a{
+	color: white;
+	padding-right: 25px;
+	text-decoration: none;
+	cursor: pointer;
+}
+.footer .row .col-md-12 .footer-social-links ul li i{
+	margin-right: 15px;
+	background: blue;
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+}
+.footer .row .col-md-12 .footer-social-links ul li .fa-facebook{
+	background: #225a97;
+}
+.footer .row .col-md-12 .footer-social-links ul li .fa-twitter{
+	background: #0288d1
+}
+.footer .row .col-md-12 .footer-social-links ul li .fa-youtube{
+	background: #c7071a;
+}
+.footer .row .col-md-12 .footer-social-links ul .facebook{
+	background: #3c77b7;
+}
+.footer .row .col-md-12 .footer-social-links ul .twitter{
+	background: #46acf8;
+}
+.footer .row .col-md-12 .footer-social-links ul .youtube{
+	background: #f60b22;
+}
+
+
+.footer .row .col-md-12 .footer-social-links ul li img{
+	width: 30px;
+}
+.footer .row .col-md-12 .footer-contact{}
+.footer .row .col-md-12 .footer-contact ul{
+	list-style: none;
+}
+.footer .row .col-md-12 .footer-contact ul li{
+	display: inline-block;
+	position: relative;
+	left: 33%;
+	font-size: 13px;
+}
+.footer .row .col-md-12 .footer-contact ul li a{
+	color: grey;
+	padding-left: 25px;
+}
+.footer .row .col-md-12 .footer-contact ul li .terms{
+	
+}
+.footer .row .col-md-12 .footer-contact ul li .privacy{
+	border-left: 1px solid grey;
+	margin-left: 20px; 
+}
+.footer .row .col-md-12 .footer-contact ul li .contact{
+	border-left: 1px solid grey;
+	margin-left: 20px; 
+}
+.footer .row .col-md-12 .footer-contact p{
+	text-align: center;
+	font-family: 'Nunito Sans', sans-serif;
+	color: grey;
+	padding-left: 10px;
+	font-size: 14px;
+}
+/*footer ends*/
